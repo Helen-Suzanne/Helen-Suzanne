@@ -1,25 +1,6 @@
-### Here is What I'm Workking on !! 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Software Testing
-- 🌱 I’m currently learning ... Cyber Security and Photography
-- 👯 I’m looking to collaborate on ...Cyber security
-- 🤔 I’m looking for help with ...Cyber Forensics
-- 💬 Ask me about ... Testing
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
-<h1 align="center">Hi 👋, I'm Suzanne</h1>
-<h3 align="center">Tester</h3>
+<h1 align="center">Hi 👋, I'm Helen Suzanne</h1>
+<h3 align="center">Here is What I'm Workking on !! 👋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helen-suzanne&label=Profile%20views&color=0e75b6&style=flat" alt="helen-suzanne" /> </p>
 
@@ -37,6 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://in.linkedin.com/in/helen-suzanne-92842899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/helen-suzanne-92842899" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
